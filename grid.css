@@ -33,7 +33,6 @@ body {background-color: #FFFFFF;
 .two {
     grid-column: 9/14;
     background-color: rgba(20, 33, 61);
-    margin-left: inherit;
 
 }
 
@@ -124,7 +123,6 @@ img {
 .stwo {
     grid-column: 9/14;
     background-color: rgba(20, 33, 61);
-    margin: auto;
 
 }
 
@@ -135,7 +133,7 @@ img {
 }
 
 .gallery1{
-    grid-column: 8/14;
+    grid-column: 7/14;
     grid-row: 2/3;
     
 }
