@@ -101,10 +101,11 @@ p{
     margin: auto;
 }
 
-img {
-  max-width: 100%;
+
+.responsive {
+  width: 100%;
+  max-width: 400px;
   height: auto;
-  padding: 5px;
 }
 
 /* End of styles for images, headers, and text*/
