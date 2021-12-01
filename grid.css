@@ -25,9 +25,15 @@ body {background-color: #FFFFFF;
 .one{
     grid-column: 1/9;
     background-color: rgba(20, 33, 61);
-
 }
-
+.one img{
+    align-self: center;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
 
 /* Nav Veritcal Code */
 .two {
@@ -120,6 +126,15 @@ p{
     background-color: rgba(20, 33, 61);
 
 }
+
+.sone img{
+    align-self: center;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
 .stwo {
     grid-column: 9/14;
     background-color: rgba(20, 33, 61);
@@ -182,6 +197,15 @@ p{
     background-color: rgba(20, 33, 61);
 }
 
+.aone img{
+    align-self: center;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
 .atwo{
     grid-column: 9/14;
     background-color: rgba(20, 33, 61);
@@ -225,6 +249,14 @@ p{
     background-color: rgba(20, 33, 61);
 }
 
+.cone img{
+    align-self: center;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
 .ctwo{
     grid-column: 9/14;
     background-color: rgb(20, 33, 61);
